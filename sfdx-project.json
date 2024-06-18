@@ -1,1 +1,17 @@
-{"packageDirectories": [{"path": "force-app", "default": true}], "namespace": null, "sourceApiVersion": "60.0"}
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "Unlocked01",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": ""
+    }
+  ],
+  "namespace": null,
+  "sourceApiVersion": "60.0",
+  "packageAliases": {
+    "Unlocked01": "0HodM00000007G1SAI"
+  }
+}
