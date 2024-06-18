@@ -1,0 +1,30 @@
+Insert GH_Product_Category__c:
+  sf_object: GH_Product_Category__c
+  fields:
+  - Name
+Insert GH_Product_Type__c:
+  sf_object: GH_Product_Type__c
+  fields:
+  - Name
+  - Type_Code__c
+  lookups:
+    Product_Category__c:
+      table:
+      - GH_Product_Category__c
+Insert GH_Product_Line__c:
+  sf_object: GH_Product_Line__c
+  fields:
+  - Name
+  lookups:
+    GH_Product_Type__c:
+      table:
+      - GH_Product_Type__c
+Insert GH_Product__c:
+  sf_object: GH_Product__c
+  fields:
+  - Name
+  - Product_Size__c
+  lookups:
+    Product_Line__c:
+      table:
+      - GH_Product_Line__c

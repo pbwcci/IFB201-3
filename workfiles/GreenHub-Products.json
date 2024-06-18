@@ -1,0 +1,421 @@
+{
+    "SkincareProducts": [
+      {
+        "category": "Organic Moisturizers",
+        "products": [
+          {
+            "name": "AquaHydrate Moisturizer",
+            "sizes": ["30 ml", "50 ml", "100 ml"]
+          },
+          {
+            "name": "Restorative Night Cream",
+            "sizes": ["30 ml", "50 ml", "100 ml"]
+          },
+          {
+            "name": "SunShield Day Cream",
+            "sizes": ["30 ml", "50 ml"]
+          }
+        ]
+      },
+      {
+        "category": "Natural Cleansers",
+        "products": [
+          {
+            "name": "PureFoam Cleanser",
+            "sizes": ["100 ml", "150 ml", "200 ml"]
+          },
+          {
+            "name": "EcoMicellar Water",
+            "sizes": ["100 ml", "200 ml", "400 ml"]
+          },
+          {
+            "name": "Nature's Oil Cleanser",
+            "sizes": ["50 ml", "100 ml", "150 ml"]
+          }
+        ]
+      },
+      {
+        "category": "Eco-Friendly Toners",
+        "products": [
+          {
+            "name": "GentleGlow Toner",
+            "sizes": ["100 ml", "200 ml"]
+          },
+          {
+            "name": "RosePetal Toner",
+            "sizes": ["100 ml", "200 ml"]
+          },
+          {
+            "name": "HazelHarmony Toner",
+            "sizes": ["100 ml", "200 ml"]
+          }
+        ]
+      },
+      {
+        "category": "Sustainable Serums",
+        "products": [
+          {
+            "name": "RadiantC Serum",
+            "sizes": ["15 ml", "30 ml"]
+          },
+          {
+            "name": "HydraBoost Serum",
+            "sizes": ["15 ml", "30 ml"]
+          },
+          {
+            "name": "RenewalRetinol Serum",
+            "sizes": ["15 ml", "30 ml"]
+          }
+        ]
+      },
+      {
+        "category": "Organic Masks and Exfoliants",
+        "products": [
+          {
+            "name": "GreenEarth Clay Mask",
+            "sizes": ["50 ml", "100 ml"]
+          },
+          {
+            "name": "NatureScrub Exfoliant",
+            "sizes": ["100 ml", "200 ml"]
+          },
+          {
+            "name": "EcoSheet Mask",
+            "sizes": ["single-use packs"]
+          }
+        ]
+      }
+    ],
+    "HaircareProducts": [
+      {
+        "category": "Natural Shampoos",
+        "products": [
+          {
+            "name": "SilkSafe Shampoo",
+            "sizes": ["250 ml", "500 ml"]
+          },
+          {
+            "name": "EcoBar Shampoo",
+            "sizes": ["50 g", "100 g"]
+          },
+          {
+            "name": "ColorCare Shampoo",
+            "sizes": ["250 ml", "500 ml"]
+          }
+        ]
+      },
+      {
+        "category": "Eco-Friendly Conditioners",
+        "products": [
+          {
+            "name": "SmoothStay Leave-In Conditioner",
+            "sizes": ["150 ml", "250 ml"]
+          },
+          {
+            "name": "DeepNourish Treatment",
+            "sizes": ["150 ml", "300 ml"]
+          },
+          {
+            "name": "EcoBar Conditioner",
+            "sizes": ["50 g", "100 g"]
+          }
+        ]
+      },
+      {
+        "category": "Hair Treatments and Serums",
+        "products": [
+          {
+            "name": "GrowthEssence Serum",
+            "sizes": ["30 ml", "50 ml"]
+          },
+          {
+            "name": "FrizzFree Serum",
+            "sizes": ["30 ml", "50 ml"]
+          },
+          {
+            "name": "HeatGuard Spray",
+            "sizes": ["100 ml", "200 ml"]
+          }
+        ]
+      },
+      {
+        "category": "Styling Products",
+        "products": [
+          {
+            "name": "StyleNature Gel",
+            "sizes": ["100 ml", "200 ml"]
+          },
+          {
+            "name": "EcoHold Hair Spray",
+            "sizes": ["100 ml", "200 ml"]
+          },
+          {
+            "name": "NaturePomade",
+            "sizes": ["50 g", "100 g"]
+          }
+        ]
+      }
+    ],
+    "MakeupProducts": [
+      {
+        "category": "Face Makeup",
+        "products": [
+          {
+            "name": "PureBlend Foundation",
+            "sizes": ["30 ml", "50 ml"]
+          },
+          {
+            "name": "GlowCare BB Cream",
+            "sizes": ["30 ml", "50 ml"]
+          },
+          {
+            "name": "ClearSkin Concealer",
+            "sizes": ["5 ml", "10 ml"]
+          }
+        ]
+      },
+      {
+        "category": "Eye Makeup",
+        "products": [
+          {
+            "name": "EarthTone Eyeshadow",
+            "sizes": ["1 g", "3 g per pan"]
+          },
+          {
+            "name": "LashNature Mascara",
+            "sizes": ["7 ml", "10 ml"]
+          },
+          {
+            "name": "GreenLine Eyeliner",
+            "sizes": ["1.2 g", "3 g"]
+          }
+        ]
+      },
+      {
+        "category": "Lip Products",
+        "products": [
+          {
+            "name": "EcoLuxe Lipstick",
+            "sizes": ["3 g", "5 g"]
+          },
+          {
+            "name": "NourishBalm",
+            "sizes": ["5 g", "10 g"]
+          },
+          {
+            "name": "ShineEco Gloss",
+            "sizes": ["5 ml", "10 ml"]
+          }
+        ]
+      },
+      {
+        "category": "Cheek Products",
+        "products": [
+          {
+            "name": "MineralBlush",
+            "sizes": ["3 g", "5 g"]
+          },
+          {
+            "name": "SunKiss Bronzer",
+            "sizes": ["5 g", "10 g"]
+          },
+          {
+            "name": "GlowNature Highlighter",
+            "sizes": ["3 g", "5 g"]
+          }
+        ]
+      }
+    ],
+    "BodyCareProducts": [
+      {
+        "category": "Body Lotions and Butters",
+        "products": [
+          {
+            "name": "SilkySmooth Lotion",
+            "sizes": ["200 ml", "400 ml"]
+          },
+          {
+            "name": "ButterRich Cream",
+            "sizes": ["100 ml", "200 ml"]
+          },
+          {
+            "name": "AloePure Gel",
+            "sizes": ["100 ml", "200 ml"]
+          }
+        ]
+      },
+      {
+        "category": "Natural Soaps",
+        "products": [
+          {
+            "name": "CraftedClean Soap",
+            "sizes": ["100 g", "150 g"]
+          },
+          {
+            "name": "CastilePure Soap",
+            "sizes": ["250 ml", "500 ml"]
+          },
+          {
+            "name": "ExfoSoap Bar",
+            "sizes": ["100 g", "150 g"]
+          }
+        ]
+      },
+      {
+        "category": "Bath Products",
+        "products": [
+          {
+            "name": "BlissBomb Bath Bomb",
+            "sizes": ["100 g", "150 g per bomb"]
+          },
+          {
+            "name": "RelaxSalt Soak",
+            "sizes": ["250 g", "500 g"]
+          },
+          {
+            "name": "BubbleNature Bath",
+            "sizes": ["250 ml", "500 ml"]
+          }
+        ]
+      },
+      {
+        "category": "Deodorants",
+        "products": [
+          {
+            "name": "PurePits Deodorant",
+            "sizes": ["50 g", "100 g"]
+          },
+          {
+            "name": "RollFresh Deodorant",
+            "sizes": ["50 ml", "100 ml"]
+          },
+          {
+            "name": "CreamFresh Deodorant",
+            "sizes": ["30 g", "50 g"]
+          }
+        ]
+      }
+    ],
+    "FragranceProducts": [
+      {
+        "category": "Natural Perfumes",
+        "products": [
+          {
+            "name": "SolidScent Perfume",
+            "sizes": ["15 g", "30 g"]
+          },
+          {
+            "name": "NatureMist Spray",
+            "sizes": ["15 ml", "30 ml"]
+          },
+          {
+            "name": "RollScent Perfume",
+            "sizes": ["10 ml", "15 ml"]
+          }
+        ]
+      },
+      {
+        "category": "Body Mists",
+        "products": [
+          {
+            "name": "FloralBreeze Mist",
+            "sizes": ["100 ml", "200 ml"]
+          },
+          {
+            "name": "CitrusBurst Spray",
+            "sizes": ["100 ml", "200 ml"]
+          },
+          {
+            "name": "HerbalFresh Spray",
+            "sizes": ["100 ml", "200 ml"]
+          }
+        ]
+      }
+    ],
+    "SunCareProducts": [
+      {
+        "category": "Natural Sunscreens",
+        "products": [
+          {
+            "name": "MineralShield Sunscreen",
+            "sizes": ["50 ml", "100 ml"]
+          },
+          {
+            "name": "ReefGuard Sunblock",
+            "sizes": ["50 ml", "100 ml"]
+          },
+          {
+            "name": "TintSafe Sunscreen",
+            "sizes": ["50 ml", "100 ml"]
+          }
+        ]
+      },
+      {
+        "category": "After-Sun Care",
+        "products": [
+          {
+            "name": "SoothingAloe Gel",
+            "sizes": ["100 ml", "200 ml"]
+          },
+          {
+            "name": "CoolRelief Spray",
+            "sizes": ["100 ml", "200 ml"]
+          },
+          {
+            "name": "HydraSun Lotion",
+            "sizes": ["100 ml", "200 ml"]
+          }
+        ]
+      }
+    ],
+    "MensGroomingProducts": [
+      {
+        "category": "Shaving Products",
+        "products": [
+          {
+            "name": "SmoothShave Cream",
+            "sizes": ["100 ml", "150 ml"]
+          },
+          {
+            "name": "FreshPost Aftershave",
+            "sizes": ["50 ml", "100 ml"]
+          },
+          {
+            "name": "GlideShave Oil",
+            "sizes": ["30 ml", "50 ml"]
+          }
+        ]
+      },
+      {
+        "category": "Beard Care",
+        "products": [
+          {
+            "name": "BeardNature Oil",
+            "sizes": ["30 ml", "50 ml"]
+          },
+          {
+            "name": "SoftBeard Balm",
+            "sizes": ["50 g", "100 g"]
+          },
+          {
+            "name": "BeardClean Shampoo",
+            "sizes": ["100 ml", "200 ml"]
+          }
+        ]
+      },
+      {
+        "category": "Hair Styling for Men",
+        "products": [
+          {
+            "name": "HoldTight Pomade",
+            "sizes": ["50 g", "100 g"]
+          },
+          {
+            "name": "FlexStyle Gel",
+            "sizes": ["100 ml", "200 ml"]
+          }
+        ]
+      }
+    ]
+  }
+  

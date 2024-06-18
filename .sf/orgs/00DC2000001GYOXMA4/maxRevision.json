@@ -1,0 +1,17 @@
+{
+    "serverMaxRevisionCounter": 2,
+    "sourceMembers": {
+        "FlexiPage__FlowsApp_UtilityBar": {
+            "serverRevisionCounter": 1,
+            "lastRetrievedFromServer": 1,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "AppMenu__AppSwitcher": {
+            "serverRevisionCounter": 2,
+            "lastRetrievedFromServer": 2,
+            "memberType": "AppMenu",
+            "isNameObsolete": false
+        }
+    }
+}

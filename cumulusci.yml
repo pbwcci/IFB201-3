@@ -1,0 +1,22 @@
+minimum_cumulusci_version: '3.88.0'
+project:
+    name: IFB201-2-2
+    package:
+        name: IFB201-2-2
+        api_version: '60.0'
+    git:
+        default_branch: 'main'
+    source_format: sfdx
+
+tasks:
+    robot:
+        options:
+            suites: robot/IFB201-2-2/tests
+            options:
+                outputdir: robot/IFB201-2-2/results
+
+    robot_testdoc:
+        options:
+            path: robot/IFB201-2-2/tests
+            output: robot/IFB201-2-2/doc/IFB201-2-2_tests.html
+

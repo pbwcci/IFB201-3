@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>GH_Product_Type__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>The Product Type to which this Product Line belongs.</inlineHelpText>
+    <label>GH Product Type</label>
+    <referenceTo>GH_Product_Type__c</referenceTo>
+    <relationshipLabel>Product Lines</relationshipLabel>
+    <relationshipName>GH_Product_Lines</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>true</reparentableMasterDetail>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

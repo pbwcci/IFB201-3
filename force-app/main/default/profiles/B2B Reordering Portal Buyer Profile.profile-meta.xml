@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <custom>true</custom>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>GH_Product_Type__c.Type_Code__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <layoutAssignments>
+        <layout>GH_Product_Category__c-GH Product Category Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>GH_Product_Line__c-GH Product Line Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>GH_Product_Type__c-GH Product Type Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>GH_Product__c-GH Product Layout</layout>
+    </layoutAssignments>
+    <tabVisibilities>
+        <tab>GH_Product_Category__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>GH_Product_Line__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>GH_Product_Type__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>GH_Product__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <userLicense>External Apps Login</userLicense>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>EnableNotifications</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>SelectFilesFromSalesforce</name>
+    </userPermissions>
+</Profile>

@@ -1,0 +1,147 @@
+Product Category,Product Type,Type Code,Line in Type,Product Line,Size
+Skin Care,Organic Moisturizers,MOIS,1,AloeVera Hydrate Moisturizer,30 ml
+Skin Care,Organic Moisturizers,MOIS,1,AloeVera Hydrate Moisturizer,50 ml
+Skin Care,Organic Moisturizers,MOIS,1,AloeVera Hydrate Moisturizer,100 ml
+Skin Care,Organic Moisturizers,MOIS,2,Chamomile Night Cream,30 ml
+Skin Care,Organic Moisturizers,MOIS,2,Chamomile Night Cream,50 ml
+Skin Care,Organic Moisturizers,MOIS,2,Chamomile Night Cream,100 ml
+Skin Care,Organic Moisturizers,MOIS,3,Rosehip Day Cream,30 ml
+Skin Care,Organic Moisturizers,MOIS,3,Rosehip Day Cream,50 ml
+Skin Care,Natural Cleansers,CLEN,1,Lavender Foam Cleanser,100 ml
+Skin Care,Natural Cleansers,CLEN,1,Lavender Foam Cleanser,150 ml
+Skin Care,Natural Cleansers,CLEN,1,Lavender Foam Cleanser,200 ml
+Skin Care,Natural Cleansers,CLEN,2,GreenTea Micellar Water,100 ml
+Skin Care,Natural Cleansers,CLEN,2,GreenTea Micellar Water,200 ml
+Skin Care,Natural Cleansers,CLEN,2,GreenTea Micellar Water,400 ml
+Skin Care,Natural Cleansers,CLEN,3,Jojoba Oil Cleanser,50 ml
+Skin Care,Natural Cleansers,CLEN,3,Jojoba Oil Cleanser,100 ml
+Skin Care,Natural Cleansers,CLEN,3,Jojoba Oil Cleanser,150 ml
+Skin Care,Eco-Friendly Toners,TONR,1,CucumberGlow Toner,100 ml
+Skin Care,Eco-Friendly Toners,TONR,1,CucumberGlow Toner,200 ml
+Skin Care,Eco-Friendly Toners,TONR,2,RosePetal Toner,100 ml
+Skin Care,Eco-Friendly Toners,TONR,2,RosePetal Toner,200 ml
+Skin Care,Eco-Friendly Toners,TONR,3,WitchHazel Harmony Toner,100 ml
+Skin Care,Eco-Friendly Toners,TONR,3,WitchHazel Harmony Toner,200 ml
+Skin Care,Sustainable Serums,SRUM,1,VitaminC Radiant Serum,15 ml
+Skin Care,Sustainable Serums,SRUM,1,VitaminC Radiant Serum,30 ml
+Skin Care,Sustainable Serums,SRUM,2,HyaluronicBoost Serum,15 ml
+Skin Care,Sustainable Serums,SRUM,2,HyaluronicBoost Serum,30 ml
+Skin Care,Sustainable Serums,SRUM,3,RetinolRenewal Serum,15 ml
+Skin Care,Sustainable Serums,SRUM,3,RetinolRenewal Serum,30 ml
+Skin Care,Organic Masks and Exfoliants,OMAE,1,GreenClay Mask,50 ml
+Skin Care,Organic Masks and Exfoliants,OMAE,1,GreenClay Mask,100 ml
+Skin Care,Organic Masks and Exfoliants,OMAE,2,WalnutScrub Exfoliant,100 ml
+Skin Care,Organic Masks and Exfoliants,OMAE,2,WalnutScrub Exfoliant,200 ml
+Skin Care,Organic Masks and Exfoliants,OMAE,3,BambooSheet Mask,single-use packs
+Hair Care,Natural Shampoos,SHAM,1,SilkAloe Shampoo,250 ml
+Hair Care,Natural Shampoos,SHAM,1,SilkAloe Shampoo,500 ml
+Hair Care,Natural Shampoos,SHAM,2,EcoBar Shampoo,50 g
+Hair Care,Natural Shampoos,SHAM,2,EcoBar Shampoo,100 g
+Hair Care,Natural Shampoos,SHAM,3,Hibiscus ColorCare Shampoo,250 ml
+Hair Care,Natural Shampoos,SHAM,3,Hibiscus ColorCare Shampoo,500 ml
+Hair Care,Eco-Friendly Conditioners,COND,1,Avocado Leave-In Conditioner,150 ml
+Hair Care,Eco-Friendly Conditioners,COND,1,Avocado Leave-In Conditioner,250 ml
+Hair Care,Eco-Friendly Conditioners,COND,2,CoconutDeep Treatment,150 ml
+Hair Care,Eco-Friendly Conditioners,COND,2,CoconutDeep Treatment,300 ml
+Hair Care,Eco-Friendly Conditioners,COND,3,EcoBar Conditioner,50 g
+Hair Care,Eco-Friendly Conditioners,COND,3,EcoBar Conditioner,100 g
+Hair Care,Hair Treatments and Serums,HTAS,1,ArganOil Growth Serum,30 ml
+Hair Care,Hair Treatments and Serums,HTAS,1,ArganOil Growth Serum,50 ml
+Hair Care,Hair Treatments and Serums,HTAS,2,FrizzFree Serum,30 ml
+Hair Care,Hair Treatments and Serums,HTAS,2,FrizzFree Serum,50 ml
+Hair Care,Hair Treatments and Serums,HTAS,3,HeatGuard Spray,100 ml
+Hair Care,Hair Treatments and Serums,HTAS,3,HeatGuard Spray,200 ml
+Hair Care,Styling Products,STYL,1,AloeVera Styling Gel,100 ml
+Hair Care,Styling Products,STYL,1,AloeVera Styling Gel,200 ml
+Hair Care,Styling Products,STYL,2,EcoHold Hair Spray,100 ml
+Hair Care,Styling Products,STYL,2,EcoHold Hair Spray,200 ml
+Hair Care,Styling Products,STYL,3,SheaButter Pomade,50 g
+Hair Care,Styling Products,STYL,3,SheaButter Pomade,100 g
+Makeup,Face Makeup,FMKU,1,ChamomileBlend Foundation,30 ml
+Makeup,Face Makeup,FMKU,1,ChamomileBlend Foundation,50 ml
+Makeup,Face Makeup,FMKU,2,GlowCare BB Cream,30 ml
+Makeup,Face Makeup,FMKU,2,GlowCare BB Cream,50 ml
+Makeup,Face Makeup,FMKU,3,ClearSkin Concealer,5 ml
+Makeup,Face Makeup,FMKU,3,ClearSkin Concealer,10 ml
+Makeup,Eye Makeup,EMKU,1,Jasmine Eyeshadow,1 g per pan
+Makeup,Eye Makeup,EMKU,1,Jasmine Eyeshadow,3 g per pan
+Makeup,Eye Makeup,EMKU,2,LashNature Mascara,7 ml
+Makeup,Eye Makeup,EMKU,2,LashNature Mascara,10 ml
+Makeup,Eye Makeup,EMKU,3,GreenLine Eyeliner,1.2 g
+Makeup,Eye Makeup,EMKU,3,GreenLine Eyeliner,3 g
+Makeup,Lip Products,LIPP,1,EcoLuxe Lipstick,3 g
+Makeup,Lip Products,LIPP,1,EcoLuxe Lipstick,5 g
+Makeup,Lip Products,LIPP,2,NourishBalm,5 g
+Makeup,Lip Products,LIPP,2,NourishBalm,10 g
+Makeup,Lip Products,LIPP,3,SheaShine Gloss,5 ml
+Makeup,Lip Products,LIPP,3,SheaShine Gloss,10 ml
+Makeup,Cheek Products,CHKP,1,MineralBlush,3 g
+Makeup,Cheek Products,CHKP,1,MineralBlush,5 g
+Makeup,Cheek Products,CHKP,2,SunKiss Bronzer,5 g
+Makeup,Cheek Products,CHKP,2,SunKiss Bronzer,10 g
+Makeup,Cheek Products,CHKP,3,GlowNature Highlighter,3 g
+Makeup,Cheek Products,CHKP,3,GlowNature Highlighter,5 g
+Body Care,Body Lotions and Butters,BBAL,1,SilkySmooth Lotion,200 ml
+Body Care,Body Lotions and Butters,BBAL,1,SilkySmooth Lotion,400 ml
+Body Care,Body Lotions and Butters,BBAL,2,ButterRich Cream,100 ml
+Body Care,Body Lotions and Butters,BBAL,2,ButterRich Cream,200 ml
+Body Care,Body Lotions and Butters,BBAL,3,AloePure Gel,100 ml
+Body Care,Body Lotions and Butters,BBAL,3,AloePure Gel,200 ml
+Body Care,Natural Soaps,SOAP,1,LavenderCrafted Soap,100 g
+Body Care,Natural Soaps,SOAP,1,LavenderCrafted Soap,150 g
+Body Care,Natural Soaps,SOAP,2,CastilePure Soap,250 ml
+Body Care,Natural Soaps,SOAP,2,CastilePure Soap,500 ml
+Body Care,Natural Soaps,SOAP,3,ExfoSoap Bar,100 g
+Body Care,Natural Soaps,SOAP,3,ExfoSoap Bar,150 g
+Body Care,Bath Products,BATH,4,LavenderBliss Bath Bomb,100 g
+Body Care,Bath Products,BATH,4,LavenderBliss Bath Bomb,150 g
+Body Care,Bath Products,BATH,5,EucalyptusRelax Salt Soak,250 g
+Body Care,Bath Products,BATH,5,EucalyptusRelax Salt Soak,500 g
+Body Care,Bath Products,BATH,6,ChamomileBubble Bath,250 ml
+Body Care,Bath Products,BATH,6,ChamomileBubble Bath,500 ml
+Body Care,Deodorants,DEOD,1,PurePits Deodorant,50 g
+Body Care,Deodorants,DEOD,1,PurePits Deodorant,100 g
+Body Care,Deodorants,DEOD,2,RollFresh Deodorant,50 ml
+Body Care,Deodorants,DEOD,2,RollFresh Deodorant,100 ml
+Body Care,Deodorants,DEOD,3,CreamFresh Deodorant,30 g
+Body Care,Deodorants,DEOD,3,CreamFresh Deodorant,50 g
+Fragrance,Natural Perfumes,PFUM,1,SolidLavender Perfume,15 g
+Fragrance,Natural Perfumes,PFUM,1,SolidLavender Perfume,30 g
+Fragrance,Natural Perfumes,PFUM,2,NatureMist Spray,15 ml
+Fragrance,Natural Perfumes,PFUM,2,NatureMist Spray,30 ml
+Fragrance,Natural Perfumes,PFUM,3,RollJasmine Perfume,10 ml
+Fragrance,Natural Perfumes,PFUM,3,RollJasmine Perfume,15 ml
+Fragrance,Body Mists,MIST,1,FloralBreeze Mist,100 ml
+Fragrance,Body Mists,MIST,1,FloralBreeze Mist,200 ml
+Fragrance,Body Mists,MIST,2,CitrusBurst Spray,100 ml
+Fragrance,Body Mists,MIST,2,CitrusBurst Spray,200 ml
+Fragrance,Body Mists,MIST,3,HerbalFresh Spray,100 ml
+Fragrance,Body Mists,MIST,3,HerbalFresh Spray,200 ml
+Sun Care,Natural Sunscreens,SNSC,1,MineralShield Sunscreen,50 ml
+Sun Care,Natural Sunscreens,SNSC,1,MineralShield Sunscreen,100 ml
+Sun Care,Natural Sunscreens,SNSC,2,SunGuard Lotion,50 ml
+Sun Care,Natural Sunscreens,SNSC,2,SunGuard Lotion,100 ml
+Sun Care,Natural Sunscreens,SNSC,3,TintSafe Sunscreen,50 ml
+Sun Care,Natural Sunscreens,SNSC,3,TintSafe Sunscreen,100 ml
+Sun Care,After-Sun Care,ASUN,1,SoothingAloe Gel,100 ml
+Sun Care,After-Sun Care,ASUN,1,SoothingAloe Gel,200 ml
+Sun Care,After-Sun Care,ASUN,2,CoolRelief Spray,100 ml
+Sun Care,After-Sun Care,ASUN,2,CoolRelief Spray,200 ml
+Sun Care,After-Sun Care,ASUN,3,HydraSun Lotion,100 ml
+Sun Care,After-Sun Care,ASUN,3,HydraSun Lotion,200 ml
+Men's Care,Shaving Products,SHAV,1,SmoothShave Cream,100 ml
+Men's Care,Shaving Products,SHAV,1,SmoothShave Cream,150 ml
+Men's Care,Shaving Products,SHAV,2,FreshPost Aftershave,50 ml
+Men's Care,Shaving Products,SHAV,2,FreshPost Aftershave,100 ml
+Men's Care,Shaving Products,SHAV,3,GlideShave Oil,30 ml
+Men's Care,Shaving Products,SHAV,3,GlideShave Oil,50 ml
+Men's Care,Beard Care,BRDC,1,BeardNature Oil,30 ml
+Men's Care,Beard Care,BRDC,1,BeardNature Oil,50 ml
+Men's Care,Beard Care,BRDC,2,SoftBeard Balm,50 g
+Men's Care,Beard Care,BRDC,2,SoftBeard Balm,100 g
+Men's Care,Beard Care,BRDC,3,BeardClean Shampoo,100 ml
+Men's Care,Beard Care,BRDC,3,BeardClean Shampoo,200 ml
+Men's Care,Hair Styling for Men,HSFM,1,HoldTight Pomade,50 g
+Men's Care,Hair Styling for Men,HSFM,1,HoldTight Pomade,100 g
+Men's Care,Hair Styling for Men,HSFM,2,FlexStyle Gel,100 ml
+Men's Care,Hair Styling for Men,HSFM,2,FlexStyle Gel,200 ml
