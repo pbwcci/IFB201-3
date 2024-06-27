@@ -1,5 +1,5 @@
 {
-    "serverMaxRevisionCounter": 16,
+    "serverMaxRevisionCounter": 27,
     "sourceMembers": {
         "DocumentFolder__Icons": {
             "serverRevisionCounter": 7,
@@ -35,6 +35,36 @@
             "serverRevisionCounter": 16,
             "lastRetrievedFromServer": 16,
             "memberType": "CustomTab",
+            "isNameObsolete": false
+        },
+        "ContentAsset__GreenTech_Hub_Logo": {
+            "serverRevisionCounter": 17,
+            "lastRetrievedFromServer": null,
+            "memberType": "ContentAsset",
+            "isNameObsolete": false
+        },
+        "FlexiPage__GreenTech_Hub_UtilityBar": {
+            "serverRevisionCounter": 23,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "AppMenu__AppSwitcher": {
+            "serverRevisionCounter": 24,
+            "lastRetrievedFromServer": null,
+            "memberType": "AppMenu",
+            "isNameObsolete": false
+        },
+        "CustomApplication__GreenTech_Hub": {
+            "serverRevisionCounter": 26,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomApplication",
+            "isNameObsolete": false
+        },
+        "Profile__Admin": {
+            "serverRevisionCounter": 27,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
             "isNameObsolete": false
         }
     }

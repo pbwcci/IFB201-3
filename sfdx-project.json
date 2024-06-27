@@ -7,11 +7,20 @@
       "versionName": "ver 0.1",
       "versionNumber": "0.1.0.NEXT",
       "versionDescription": ""
+    },
+    {
+      "path": "force-app",
+      "package": "Unlocked02",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
     }
   ],
   "namespace": null,
   "sourceApiVersion": "60.0",
   "packageAliases": {
-    "Unlocked01": "0HodM00000007G1SAI"
+    "Unlocked01": "0HodM00000007G1SAI",
+    "Unlocked02": "0HodM00000008btSAA"
   }
 }
